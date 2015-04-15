@@ -1,0 +1,83 @@
+2015.04.15 15:36:03 LOG5[17130:140443368535872]: stunnel 4.53 on x86_64-pc-linux-gnu platform
+2015.04.15 15:36:03 LOG5[17130:140443368535872]: Compiled with OpenSSL 1.0.1e 11 Feb 2013
+2015.04.15 15:36:03 LOG5[17130:140443368535872]: Running  with OpenSSL 1.0.1f 6 Jan 2014
+2015.04.15 15:36:03 LOG5[17130:140443368535872]: Update OpenSSL shared libraries or rebuild stunnel
+2015.04.15 15:36:03 LOG5[17130:140443368535872]: Threading:PTHREAD SSL:+ENGINE+OCSP Auth:LIBWRAP Sockets:POLL+IPv6
+2015.04.15 15:36:03 LOG5[17130:140443368535872]: Reading configuration from file stunnel/dev_https
+2015.04.15 15:36:03 LOG4[17130:140443368535872]: Insecure file permissions on stunnel/stunnel.pem
+2015.04.15 15:36:03 LOG5[17130:140443368535872]: Configuration successful
+2015.04.15 15:38:40 LOG5[17130:140443368535872]: Terminated
+2015.04.15 15:38:48 LOG5[17324:139944116102976]: stunnel 4.53 on x86_64-pc-linux-gnu platform
+2015.04.15 15:38:48 LOG5[17324:139944116102976]: Compiled with OpenSSL 1.0.1e 11 Feb 2013
+2015.04.15 15:38:48 LOG5[17324:139944116102976]: Running  with OpenSSL 1.0.1f 6 Jan 2014
+2015.04.15 15:38:48 LOG5[17324:139944116102976]: Update OpenSSL shared libraries or rebuild stunnel
+2015.04.15 15:38:48 LOG5[17324:139944116102976]: Threading:PTHREAD SSL:+ENGINE+OCSP Auth:LIBWRAP Sockets:POLL+IPv6
+2015.04.15 15:38:48 LOG5[17324:139944116102976]: Reading configuration from file stunnel/dev_https
+2015.04.15 15:38:48 LOG4[17324:139944116102976]: Insecure file permissions on stunnel/stunnel.pem
+2015.04.15 15:38:48 LOG5[17324:139944116102976]: Configuration successful
+2015.04.15 15:40:51 LOG5[17324:139944116242176]: Service [https] accepted connection from 127.0.0.1:48402
+2015.04.15 15:40:51 LOG5[17324:139944116098816]: Service [https] accepted connection from 127.0.0.1:48403
+2015.04.15 15:40:51 LOG5[17324:139944116098816]: connect_blocking: connected 127.0.0.1:8001
+2015.04.15 15:40:51 LOG5[17324:139944116098816]: Service [https] connected remote server from 127.0.0.1:47422
+2015.04.15 15:40:51 LOG5[17324:139944116242176]: connect_blocking: connected 127.0.0.1:8001
+2015.04.15 15:40:51 LOG5[17324:139944116242176]: Service [https] connected remote server from 127.0.0.1:47423
+2015.04.15 15:40:51 LOG5[17324:139944116242176]: Connection closed: 0 byte(s) sent to SSL, 0 byte(s) sent to socket
+2015.04.15 15:40:51 LOG5[17324:139944116098816]: Connection closed: 0 byte(s) sent to SSL, 0 byte(s) sent to socket
+2015.04.15 15:40:59 LOG5[17324:139944116098816]: Service [https] accepted connection from 127.0.0.1:48407
+2015.04.15 15:40:59 LOG5[17324:139944116242176]: Service [https] accepted connection from 127.0.0.1:48408
+2015.04.15 15:40:59 LOG5[17324:139944116098816]: connect_blocking: connected 127.0.0.1:8001
+2015.04.15 15:40:59 LOG5[17324:139944116098816]: Service [https] connected remote server from 127.0.0.1:47427
+2015.04.15 15:40:59 LOG5[17324:139944116098816]: Connection closed: 0 byte(s) sent to SSL, 0 byte(s) sent to socket
+2015.04.15 15:40:59 LOG5[17324:139944116242176]: connect_blocking: connected 127.0.0.1:8001
+2015.04.15 15:40:59 LOG5[17324:139944116242176]: Service [https] connected remote server from 127.0.0.1:47428
+2015.04.15 15:40:59 LOG5[17324:139944116242176]: Connection closed: 0 byte(s) sent to SSL, 0 byte(s) sent to socket
+2015.04.15 15:40:59 LOG5[17324:139944116242176]: Service [https] accepted connection from 127.0.0.1:48411
+2015.04.15 15:40:59 LOG5[17324:139944116242176]: connect_blocking: connected 127.0.0.1:8001
+2015.04.15 15:40:59 LOG5[17324:139944116242176]: Service [https] connected remote server from 127.0.0.1:47430
+2015.04.15 15:40:59 LOG5[17324:139944116242176]: Connection closed: 0 byte(s) sent to SSL, 0 byte(s) sent to socket
+2015.04.15 15:41:42 LOG5[17324:139944116242176]: Service [https] accepted connection from 127.0.0.1:48451
+2015.04.15 15:41:42 LOG5[17324:139944116098816]: Service [https] accepted connection from 127.0.0.1:48452
+2015.04.15 15:41:42 LOG5[17324:139944116242176]: connect_blocking: connected 127.0.0.1:8001
+2015.04.15 15:41:42 LOG5[17324:139944116242176]: Service [https] connected remote server from 127.0.0.1:47471
+2015.04.15 15:41:42 LOG5[17324:139944116098816]: connect_blocking: connected 127.0.0.1:8001
+2015.04.15 15:41:42 LOG5[17324:139944116098816]: Service [https] connected remote server from 127.0.0.1:47472
+2015.04.15 15:41:42 LOG5[17324:139944116242176]: Connection closed: 0 byte(s) sent to SSL, 0 byte(s) sent to socket
+2015.04.15 15:41:42 LOG5[17324:139944116098816]: Connection closed: 0 byte(s) sent to SSL, 0 byte(s) sent to socket
+2015.04.15 15:41:42 LOG5[17324:139944116098816]: Service [https] accepted connection from 127.0.0.1:48455
+2015.04.15 15:41:42 LOG5[17324:139944116098816]: connect_blocking: connected 127.0.0.1:8001
+2015.04.15 15:41:42 LOG5[17324:139944116098816]: Service [https] connected remote server from 127.0.0.1:47474
+2015.04.15 15:41:42 LOG5[17324:139944116098816]: Connection closed: 0 byte(s) sent to SSL, 0 byte(s) sent to socket
+2015.04.15 15:42:38 LOG3[17324:139944116102976]: Received signal 2; terminating
+2015.04.15 15:43:35 LOG5[17624:140078808463168]: stunnel 4.53 on x86_64-pc-linux-gnu platform
+2015.04.15 15:43:35 LOG5[17624:140078808463168]: Compiled with OpenSSL 1.0.1e 11 Feb 2013
+2015.04.15 15:43:35 LOG5[17624:140078808463168]: Running  with OpenSSL 1.0.1f 6 Jan 2014
+2015.04.15 15:43:35 LOG5[17624:140078808463168]: Update OpenSSL shared libraries or rebuild stunnel
+2015.04.15 15:43:35 LOG5[17624:140078808463168]: Threading:PTHREAD SSL:+ENGINE+OCSP Auth:LIBWRAP Sockets:POLL+IPv6
+2015.04.15 15:43:35 LOG5[17624:140078808463168]: Reading configuration from file stunnel/dev_https
+2015.04.15 15:43:35 LOG4[17624:140078808463168]: Insecure file permissions on stunnel/stunnel.pem
+2015.04.15 15:43:35 LOG5[17624:140078808463168]: Configuration successful
+2015.04.15 15:44:34 LOG5[17624:140078808602368]: Service [https] accepted connection from 127.0.0.1:49369
+2015.04.15 15:44:34 LOG5[17624:140078808459008]: Service [https] accepted connection from 127.0.0.1:49370
+2015.04.15 15:44:34 LOG5[17624:140078808602368]: connect_blocking: connected 127.0.0.1:8001
+2015.04.15 15:44:34 LOG5[17624:140078808602368]: Service [https] connected remote server from 127.0.0.1:48389
+2015.04.15 15:44:34 LOG5[17624:140078808459008]: connect_blocking: connected 127.0.0.1:8001
+2015.04.15 15:44:34 LOG5[17624:140078808459008]: Service [https] connected remote server from 127.0.0.1:48390
+2015.04.15 15:44:34 LOG5[17624:140078808459008]: Connection closed: 0 byte(s) sent to SSL, 0 byte(s) sent to socket
+2015.04.15 15:44:34 LOG5[17624:140078808602368]: Connection closed: 0 byte(s) sent to SSL, 0 byte(s) sent to socket
+2015.04.15 15:44:34 LOG5[17624:140078808602368]: Service [https] accepted connection from 127.0.0.1:49373
+2015.04.15 15:44:34 LOG5[17624:140078808602368]: connect_blocking: connected 127.0.0.1:8001
+2015.04.15 15:44:34 LOG5[17624:140078808602368]: Service [https] connected remote server from 127.0.0.1:48392
+2015.04.15 15:44:34 LOG5[17624:140078808602368]: Connection closed: 0 byte(s) sent to SSL, 0 byte(s) sent to socket
+2015.04.15 15:46:27 LOG5[17624:140078808602368]: Service [https] accepted connection from 127.0.0.1:50199
+2015.04.15 15:46:27 LOG5[17624:140078808459008]: Service [https] accepted connection from 127.0.0.1:50200
+2015.04.15 15:46:27 LOG5[17624:140078808602368]: connect_blocking: connected 127.0.0.1:8001
+2015.04.15 15:46:27 LOG5[17624:140078808602368]: Service [https] connected remote server from 127.0.0.1:49219
+2015.04.15 15:46:27 LOG5[17624:140078808459008]: connect_blocking: connected 127.0.0.1:8001
+2015.04.15 15:46:27 LOG5[17624:140078808459008]: Service [https] connected remote server from 127.0.0.1:49220
+2015.04.15 15:46:27 LOG5[17624:140078808602368]: Connection closed: 0 byte(s) sent to SSL, 0 byte(s) sent to socket
+2015.04.15 15:46:27 LOG5[17624:140078808459008]: Connection closed: 0 byte(s) sent to SSL, 0 byte(s) sent to socket
+2015.04.15 15:46:27 LOG5[17624:140078808459008]: Service [https] accepted connection from 127.0.0.1:50203
+2015.04.15 15:46:27 LOG5[17624:140078808459008]: connect_blocking: connected 127.0.0.1:8001
+2015.04.15 15:46:27 LOG5[17624:140078808459008]: Service [https] connected remote server from 127.0.0.1:49222
+2015.04.15 15:46:27 LOG5[17624:140078808459008]: Connection closed: 0 byte(s) sent to SSL, 0 byte(s) sent to socket
+2015.04.15 15:49:28 LOG3[17624:140078808463168]: Received signal 2; terminating
