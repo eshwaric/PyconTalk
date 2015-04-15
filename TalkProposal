@@ -1,0 +1,24 @@
+Title:
+Django & CORS - Learnings
+
+Description :
+
+The aim of the talk is to provide an overview of how to configure a Django application for CORS communication. The talk will demonstrate an angular application accessing data from a Django application.
+
+Prerequisites :
+
+Django basics
+
+Content URLS :
+
+The slides for the talk can be found at https://github.com/eshwaric/PyconTalk/blob/master/DjangoCorsTalk.pdf
+
+This demo code for the talk can be found  at https://github.com/eshwaric/PyconTalk. Please note the demo code still needs to be completed.
+
+Speaker Info :
+
+Eshwari Chandrashekhar is a software developer with over 6 years of experience in embedded and web technologies. She currently works for Wazoku, a leading UK based idea management software company. In her current role she designs and develops the core product of the company called Idea Spotlight that provides a platform for collaborative innovation. This product is built using Python , Django and AngularJS.
+
+Speaker Links :
+
+https://www.linkedin.com/in/eshwaric
